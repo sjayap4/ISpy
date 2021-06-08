@@ -1,0 +1,4 @@
+.backgroundImg{
+    -fx-background-image:url("background_Stadium.jpg");
+    -fx-background-size: 100% 100%;
+}

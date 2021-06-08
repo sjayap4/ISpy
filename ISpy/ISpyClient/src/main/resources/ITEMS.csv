@@ -1,0 +1,106 @@
+"itemName";"areaName";"hint";"itemLevel"
+"Slide";"Park";"Hint: When you go on a slide, you start from the top of the playground and go down to the ground";2
+"Sand";"Park";"Hint: Really small minerals and rocks";2
+"Swing";"Park";"Hint: Something near a playground that you sit on and move back and forth";2
+"Bench";"Park";"Hint: A really long chair that can fit a lot of people";1
+"Basketball Court";"Park";"Hint: Has a tall hoop with a net and a big round ball that bounces";3
+"Tennis Court";"Park";"Hint: Has a net with small green balls and rackets";3
+"Playground";"Park";"Hint: Something that a lot of kids play on";3
+"Ball";"Park";"Hint: Something used in a lot of games. Usually people throw and catch them.";1
+"Picnic";"Park";"Hint: A meal you could eat outside";4
+"Toy";"Park";"Hint: An item that kids play with";3
+"Bicycle";"Park";"Hint: Something you could ride that has two wheels and a seat";1
+"Skateboard";"Park";"Hint: Something that you could ride with 4 wheels and stand on";4
+"Scooter";"Park";"Hint: Something that you could ride with 2 wheels and stand on";4
+"Bucket";"Park";"Hint: A tool you can use to hold sand";1
+"House";"Neighborhood";"Hint: Something that people live in";1
+"Car";"Neighborhood";"Hint: Something that grownups drive to get to places";1
+"Garage";"Neighborhood";"Hint: A place where all the cars and tools are";2
+"Fence";"Neighborhood";"Hint: A thing made out of wood that keep things out";1
+"Sidewalk";"Neighborhood";"Hint: The concrete that you walk on to stay safe from the road";1
+"Mailbox";"Neighborhood";"Hint: The place where mail goes";3
+"Dog House";"Neighborhood";"Hint: A small house in backyards where a dog stays and sleeps.";4
+"Tree House";"Neighborhood";"Hint: A small house up in the trees in backyards";3
+"Dog";"Neighborhood";"Hint: An animal that barks and is everyone’s best friend";2
+"Cat";"Neighborhood";"Hint: An animal that meows and purrs";3
+"Toolshed";"Neighborhood";"Hint: A place where all tools go";4
+"Garden";"Neighborhood";"Hint: A place in the backyard where there are plants and flowers";3
+"Window";"Neighborhood";"Hint: A thing on the side of a house that you could look through to see outside/inside";2
+"Door";"Neighborhood";"Hint: A thing that you walk through to go from one room to another";2
+"Lamp Post";"Neighborhood";"Hint: Something that lights up the street when it gets dark";3
+"Zebra";"Zoo";"Hint: An animal with black and white stripes and looks like a horse";1
+"Lion";"Zoo";"Hint: An animal that roars and has a mane";2
+"Giraffe";"Zoo";"Hint: An animal that has a really long neck";2
+"Monkey";"Zoo";"Hint: An animal that is small, climbs trees and eats bananas";1
+"Giant Panda";"Zoo";"Hint: A black and white bear";3
+"Polar Bear";"Zoo";"Hint: A white bear that lives in the cold";4
+"Penguin";"Zoo";"Hint: A bird that doesn’t fly and lives in the cold";3
+"Hippo";"Zoo";"Hint: A big animal with a big mouth and small ears. It walks on all fours and can walk on land and swim";4
+"Gorilla";"Zoo";"Hint: An animal that can stand on its two arms and two legs but can also sit like us";4
+"Tiger";"Zoo";"Hint: An animal with orange, white and black stripes";1
+"Kangaroo";"Zoo";"Hint: An animal that likes to hop and has a pouch where its babies stay";4
+"Dolphin";"Zoo";"Hint: An animal that swims and likes to jump up in the air";3
+"Otter";"Zoo";"Hint: An animal with brown fur and whiskers and likes to swim";4
+"Koala";"Zoo";"Hint: An animal that is small and gray and likes to climb up trees";3
+"Lemur";"Zoo";"Hint: A little animal with black eyes and striped tail";4
+"Rock";"All";"Hint: A hard object found on the ground that could be round or sharp";1
+"Cloud";"All";"Hint: The poofy white stuff in the sky";1
+"Drinking Fountain";"All";"Hint: Some place where people can drink water";1
+"Bumblebee";"All";"Hint: A big, fuzzy yellow insect with black stripes that takes pollen and buzzes";1
+"Statue";"All";"Hint: A figure of a person";2
+"Pond";"All";"Hint: A small body of water found in zoos, parks and neighborhoods";4
+"Sun";"All";"Hint: A bright light in the sky during the day";3
+"Starry Sky";"All";"Hint: Small dots of light in the sky at night when it’s dark";2
+"Leaf";"All";"Hint: The stuff that falls from trees in the fall";3
+"Moon";"All";"Hint: A round shape of light that appears at night in the sky";1
+"Fountain";"All";"Hint: A spray of water created by a machine, or the structure from which the water flows";3
+"Grasshopper";"All";"Hint: A green insect that hops around";4
+"Squirrel";"All";"Hint: An animal with a bushy tail, likes to climb trees and eat nuts";2
+"Rabbit";"All";"Hint: An animal that hops and runs really fast";3
+"Grass";"All";"Hint: The green stuff on the ground";1
+"Table";"All";"Hint: Something that is flat and people like to sit around";4
+"Chair";"All";"Hint: Something that people sit on";4
+"Bird";"All";"Hint: An animal that chirps and flies";3
+"Flower";"All";"Hint: A plant that has petals and pretty colors";2
+"Tree";"All";"Hint: A tall plant that has green leaves";2
+"Trash Can";"All";"Hint: A bin that you throw stuff away in";3
+"Shovel";"Park";"Hint: A tool you can use to scoop up sand";2
+"Tree Stump";"Park";"Hint: The part left when the tree is cut off";4
+"Ant";"Neighborhood";"Hint: An insect on the ground that’s black, small and loves sweets";2
+"Motorcycle";"Neighborhood";"Hint: A two wheel car that makes a loud noise when it passes by";4
+"Stopsign";"Neighborhood";"Hint: A red hexagon sign on the sidewalk";1
+"Fire Hydrant";"Neighborhood";"Hint: A red item on the sidewalk that firefighters use to get water";4
+"Duck";"Zoo";"Hint: An animal that quacks and floats on the water";3
+"Turtle";"Zoo";"Hint: An animal that lives in a big shell and walks really slow";1
+"Snake";"Zoo";"Hint: A reptile that is slimy and doesn’t have legs";2
+"Fish";"Zoo";"Hint: An animal that lives in the water and has fins";1
+"Elephant";"Zoo";"Hint: An animal that stomps when it walks, has two tusks and big ears";2
+"Butterfly";"All";"Hint: An insect that can fly and has colorful wings after it hatches from its cocoon";4
+"Bird Nest";"All";"Hint: Home of birds, usually on a tree";4
+"Daisy";"Park";"Hint: A flower with a yellow middle and white petals";5
+"Pine";"Park";"Hint: A triangle tree that can be used as a Christmas tree";5
+"Kite";"Park";"Hint: A colorful toy that can be flown in the sky";5
+"Soccer Ball";"Park";"Hint: A black and white ball";5
+"Racket";"Park";"Hint: Something you use to play tennis to hit the ball";5
+"Baseball";"Park";"Hint: A small white ball";5
+"Frisbee";"Park";"Hint: A disk people throw in the air";5
+"Tulip";"Neighborhood";"Hint: A flower that has triangle shaped petals, usually found in gardens";5
+"Rose";"Neighborhood";"Hint: A red flower, usually found in gardens";5
+"Roof";"Neighborhood";"Hint: Triangle shaped items that covers the tops of houses";5
+"Trampoline";"Neighborhood";"Hint: Something shaped as a circle that you can jump on";5
+"Pool";"Neighborhood";"Hint: Something filled with water that you can swim in";5
+"Lawn Mower";"Neighborhood";"Hint: Something that you use to cut grass with";5
+"Pond Lily";"Zoo";"Hint: A leaf found in the water that frogs like to stay on";5
+"Frog";"Zoo";"Hint: A green slimy animal with big eyes";5
+"Rhino";"Zoo";"Hint: A big gray animal that walks on four feet and has a big horn on the front of its face";5
+"Bear";"Zoo";"Hint: A big brown furry animal";5
+"Cheetah";"Zoo";"Hint: A yellow animal with black spots, a long tail, and can run fast";5
+"Armadillo";"Zoo";"Hint: An animal that has a hard shell and can turn into a ball";5
+"Camel";"Zoo";"Hint: A tall animal that has a hump on its back";5
+"Flamingo";"Zoo";"Hint: A pink bird that stands in water with its really long skinny legs";5
+"Crocodile";"Zoo";"Hint: A big reptile with a big mouth and has lots of teeth";5
+"Firefly";"All";"Hint: A bug that glows when it is dark outside";5
+"Bush";"All";"Hint: A green plant that has lots of leaves";5
+"Brick";"Neighborhood";"Hint: A reddish-brown object that is used to build walls";5
+"Dandelion";"All";"Hint: A small yellow flowers";5
+"Puddle";"All";"Hint: Little holes in the ground full of water when it rains";5
