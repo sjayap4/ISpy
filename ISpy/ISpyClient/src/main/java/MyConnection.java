@@ -26,7 +26,7 @@ public class MyConnection {
 
         try {
             // open connection
-            con = DriverManager.getConnection(MySQLURL, "root", "tbtrs1964");
+            con = DriverManager.getConnection(MySQLURL, "root", "--add_password_here--");
         } catch (Exception e) {
             e.printStackTrace();
         }
